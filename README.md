@@ -1,3 +1,3 @@
 ﻿# Python - 8th Lab
-![Screenshot1](screenshot.png)
-![Screenshot2](screenshot1.png)
+![Screenshot1](1.png)
+![Screenshot2](2.png)
